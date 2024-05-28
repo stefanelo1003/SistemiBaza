@@ -1,0 +1,159 @@
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.exe
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.dll.config
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.deps.json
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.runtimeconfig.json
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.pdb
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Antlr3.Runtime.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\FluentNHibernate.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Iesi.Collections.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\NHibernate.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Remotion.Linq.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Remotion.Linq.EagerFetching.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Form1.resources
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Properties.Resources.resources
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.sourcelink.json
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsF.A1EEDF9B.Up2Date
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\refint\WindowsFormsApp1.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.pdb
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.genruntimeconfig.cache
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\ref\WindowsFormsApp1.dll
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.ZaposleniForm.resources
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.AlarmiForm.resources
+D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.OstaloForm.resources
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.AlarmiForm.resources
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Form1.resources
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.OstaloForm.resources
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.ZaposleniForm.resources
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Properties.Resources.resources
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.sourcelink.json
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\refint\WindowsFormsApp1.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.pdb
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.exe
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.dll.config
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.deps.json
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.runtimeconfig.json
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.pdb
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Antlr3.Runtime.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\FluentNHibernate.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Iesi.Collections.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\NHibernate.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Remotion.Linq.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Remotion.Linq.EagerFetching.dll
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsF.A1EEDF9B.Up2Date
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.genruntimeconfig.cache
+D:\fax\Treca godina\Sistemi baza podataka\Faza2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\ref\WindowsFormsApp1.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.exe
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.dll.config
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.deps.json
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.runtimeconfig.json
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.pdb
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Antlr3.Runtime.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\FluentNHibernate.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Iesi.Collections.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\NHibernate.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Remotion.Linq.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Remotion.Linq.EagerFetching.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.AlarmiForm.resources
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Form1.resources
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.OstaloForm.resources
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.ZaposleniForm.resources
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Properties.Resources.resources
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsF.A1EEDF9B.Up2Date
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\refint\WindowsFormsApp1.dll
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.pdb
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.genruntimeconfig.cache
+E:\ogi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\ref\WindowsFormsApp1.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.AlarmiForm.resources
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Form1.resources
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.OstaloForm.resources
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Forms.ZaposleniForm.resources
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.Properties.Resources.resources
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\refint\WindowsFormsApp1.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.pdb
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.exe
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.dll.config
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.deps.json
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.runtimeconfig.json
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\WindowsFormsApp1.pdb
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Antlr3.Runtime.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\FluentNHibernate.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Iesi.Collections.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\NHibernate.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Remotion.Linq.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Remotion.Linq.EagerFetching.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsF.A1EEDF9B.Up2Date
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\WindowsFormsApp1.genruntimeconfig.cache
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net8.0-windows\ref\WindowsFormsApp1.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Fakultet\III godina\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
